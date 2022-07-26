@@ -1,0 +1,32 @@
+{
+  "ergast_circuit_id": "yas_marina",
+  "versions": [
+    {
+      "from_season": 2022,
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 242, "absolute": 242 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 257, "absolute": 499 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 216, "absolute": 715 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 228, "absolute": 943 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 250, "absolute": 1193 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 53, "absolute": 1246 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 117, "absolute": 1363 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 1257, "absolute": 2620 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 87, "absolute": 2707 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 142, "absolute": 2849 }},
+        { "number": 11, "description": "T11", "distance": { "relative": 815, "absolute": 3664 }},
+        { "number": 12, "description": "T12", "distance": { "relative": 75, "absolute": 3739 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 37, "absolute": 3776 }},
+        { "number": 14, "description": "T14", "distance": { "relative": 141, "absolute": 3917 }},
+        { "number": 15, "description": "T15", "distance": { "relative": 299, "absolute": 4216 }},
+        { "number": 16, "description": "T16", "distance": { "relative": 158, "absolute": 4374 }},
+        { "number": 17, "description": "T17", "distance": { "relative": 119, "absolute": 4493 }},
+        { "number": 18, "description": "T18", "distance": { "relative": 122, "absolute": 4615 }},
+        { "number": 19, "description": "T19", "distance": { "relative": 118, "absolute": 4733 }},
+        { "number": 20, "description": "T20", "distance": { "relative": 297, "absolute": 5030 }},
+        { "number": 21, "description": "T21", "distance": { "relative": 226, "absolute": 5256 }}
+      ]
+    }
+  ]
+}

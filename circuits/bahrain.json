@@ -1,0 +1,26 @@
+{
+  "ergast_circuit_id": "bahrain",
+  "versions": [
+    {
+      "from_season": 2022,
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 620, "absolute": 620 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 130, "absolute": 750 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 120, "absolute": 870 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 550, "absolute": 1420 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 215, "absolute": 1635 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 155, "absolute": 1790 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 90, "absolute": 1880 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 240, "absolute": 2120 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 340, "absolute": 2460 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 130, "absolute": 2590 }},
+        { "number": 11, "description": "T11", "distance": { "relative": 720, "absolute": 3310 }},
+        { "number": 12, "description": "T12", "distance": { "relative": 375, "absolute": 3685 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 283, "absolute": 3968 }},
+        { "number": 14, "description": "T14", "distance": { "relative": 797, "absolute": 4765 }},
+        { "number": 15, "description": "T15", "distance": { "relative": 185, "absolute": 4950 }}
+      ]
+    }
+  ]
+}

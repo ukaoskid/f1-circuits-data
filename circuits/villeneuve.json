@@ -1,7 +1,8 @@
 {
+  "ergast_circuit_id": "villeneuve",
   "versions": [
     {
-      "year": 2022,
+      "from_season": 2022,
       "turns": [
         { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
         { "number": 1, "description": "T1", "distance": { "relative": 100, "absolute": 100 }},

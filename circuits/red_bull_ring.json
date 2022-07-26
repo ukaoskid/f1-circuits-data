@@ -1,0 +1,21 @@
+{
+  "ergast_circuit_id": "red_bull_ring",
+  "versions": [
+    {
+      "from_season": 2022,
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 350, "absolute": 350 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 633, "absolute": 983 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 287, "absolute": 1270 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 800, "absolute": 2070 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 190, "absolute": 2260 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 340, "absolute": 2600 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 320, "absolute": 2920 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 180, "absolute": 3100 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 570, "absolute": 3670 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 220, "absolute": 3890 }}
+      ]
+    }
+  ]
+}

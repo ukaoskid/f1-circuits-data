@@ -1,0 +1,27 @@
+{
+  "ergast_circuit_id": "albert_park",
+  "versions": [
+    {
+      "from_season": 2022,
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 300, "absolute": 300 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 126, "absolute": 426 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 554, "absolute": 980 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 190, "absolute": 1170 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 239, "absolute": 1409 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 371, "absolute": 1780 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 204, "absolute": 1984 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 171, "absolute": 2155 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 341, "absolute": 2496 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 85, "absolute": 2581 }},
+        { "number": 11, "description": "T11", "distance": { "relative": 634, "absolute": 3215 }},
+        { "number": 12, "description": "T12", "distance": { "relative": 135, "absolute": 3350 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 635, "absolute": 3985 }},
+        { "number": 14, "description": "T14", "distance": { "relative": 330, "absolute": 4315 }},
+        { "number": 15, "description": "T15", "distance": { "relative": 214, "absolute": 4529 }},
+        { "number": 16, "description": "T16", "distance": { "relative": 151, "absolute": 4680 }}
+      ]
+    }
+  ]
+}
