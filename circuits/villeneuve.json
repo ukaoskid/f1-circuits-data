@@ -1,0 +1,24 @@
+{
+  "versions": [
+    {
+      "year": 2022,
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 100, "absolute": 100 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 160, "absolute": 260 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 364, "absolute": 624 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 54, "absolute": 678 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 237, "absolute": 915 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 205, "absolute": 1120 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 110, "absolute": 1230 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 610, "absolute": 1840 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 127, "absolute": 1967 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 583, "absolute": 2550 }},
+        { "number": 11, "description": "T11", "distance": { "relative": 100, "absolute": 2650 }},
+        { "number": 12, "description": "T12", "distance": { "relative": 463, "absolute": 3113 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 617, "absolute": 3730 }},
+        { "number": 14, "description": "T14", "distance": { "relative": 116, "absolute": 3846 }}
+      ]
+    }
+  ]
+}
