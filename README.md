@@ -10,6 +10,8 @@ about Formula 1 circuits, such as:
 
 The `circuitId` and the circuit's file name is referring to the `id` used on the [Ergast](http://ergast.com/mrd/) API.
 
+**Current step**: Step 1
+
 ### Step 1
 
 - Turns list with relative and absolute distances.
