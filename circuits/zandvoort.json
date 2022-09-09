@@ -1,0 +1,28 @@
+{
+  "ergast_circuit_id": "zandvoort",
+  "versions": [
+    {
+      "validity": {
+        "from_year": 2022,
+        "to_year": 2022
+      },
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 240, "absolute": 240 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 620, "absolute": 380 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 748, "absolute": 128 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 930, "absolute": 182 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 1102, "absolute": 172 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 1298, "absolute": 196 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 1575, "absolute": 277 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 1936, "absolute": 361 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 2153, "absolute": 217 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 2374, "absolute": 221 }},
+        { "number": 11, "description": "T11", "distance": { "relative": 2980, "absolute": 606 }},
+        { "number": 12, "description": "T12", "distance": { "relative": 3103, "absolute": 123 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 3391, "absolute": 288 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 3679, "absolute": 288 }}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "ergast_circuit_id": "imola",
+  "versions": [
+    {
+      "validity": {
+        "from_year": 2022,
+        "to_year": 2022
+      },
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 314, "absolute": 314 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 759, "absolute": 445 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 942, "absolute": 183 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 1029, "absolute": 87 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 1435, "absolute": 406 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 1541, "absolute": 106 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 1794, "absolute": 253 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 2087, "absolute": 293 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 2393, "absolute": 306 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 2613, "absolute": 220 }},
+        { "number": 11, "description": "T11", "distance": { "relative": 2849, "absolute": 236 }},
+        { "number": 12, "description": "T12", "distance": { "relative": 2929, "absolute": 80 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 3039, "absolute": 110 }},
+        { "number": 14, "description": "T14", "distance": { "relative": 3425, "absolute": 386 }},
+        { "number": 15, "description": "T15", "distance": { "relative": 3542, "absolute": 117 }},
+        { "number": 16, "description": "T16", "distance": { "relative": 3956, "absolute": 414 }},
+        { "number": 17, "description": "T17", "distance": { "relative": 4121, "absolute": 165 }},
+        { "number": 18, "description": "T18", "distance": { "relative": 4364, "absolute": 243 }},
+        { "number": 19, "description": "T19", "distance": { "relative": 4619, "absolute": 255 }}
+      ]
+    }
+  ]
+}

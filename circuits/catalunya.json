@@ -1,0 +1,30 @@
+{
+  "ergast_circuit_id": "catalunya",
+  "versions": [
+    {
+      "validity": {
+        "from_year": 2022,
+        "to_year": 2022
+      },
+      "turns": [
+        { "number": 0, "description": "Start", "distance": { "relative": 0, "absolute": 0 }},
+        { "number": 1, "description": "T1", "distance": { "relative": 709, "absolute": 709 }},
+        { "number": 2, "description": "T2", "distance": { "relative": 807, "absolute": 98 }},
+        { "number": 3, "description": "T3", "distance": { "relative": 1058, "absolute": 251 }},
+        { "number": 4, "description": "T4", "distance": { "relative": 1588, "absolute": 530 }},
+        { "number": 5, "description": "T5", "distance": { "relative": 1983, "absolute": 395 }},
+        { "number": 6, "description": "T6", "distance": { "relative": 2240, "absolute": 257 }},
+        { "number": 7, "description": "T7", "distance": { "relative": 2434, "absolute": 194 }},
+        { "number": 8, "description": "T8", "distance": { "relative": 2531, "absolute": 97 }},
+        { "number": 9, "description": "T9", "distance": { "relative": 2794, "absolute": 263 }},
+        { "number": 10, "description": "T10", "distance": { "relative": 3334, "absolute": 540 }},
+        { "number": 11, "description": "T11", "distance": { "relative": 3511, "absolute": 177 }},
+        { "number": 12, "description": "T12", "distance": { "relative": 3629, "absolute": 118 }},
+        { "number": 13, "description": "T13", "distance": { "relative": 3915, "absolute": 286 }},
+        { "number": 14, "description": "T14", "distance": { "relative": 4019, "absolute": 104 }},
+        { "number": 15, "description": "T15", "distance": { "relative": 4068, "absolute": 49 }},
+        { "number": 16, "description": "T16", "distance": { "relative": 4223, "absolute": 155 }}
+      ]
+    }
+  ]
+}
