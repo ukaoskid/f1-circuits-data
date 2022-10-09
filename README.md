@@ -9,6 +9,7 @@ about Formula 1 circuits, such as:
 ## Roadmap
 
 The `circuitId` and the circuit's file name is referring to the `id` used on the [Ergast](http://ergast.com/mrd/) API.
+Read the `CONTRIBUTE.md` to give your contribution.
 
 **Current step**: Step 1
 
